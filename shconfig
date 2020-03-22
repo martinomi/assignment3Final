@@ -1,0 +1,7 @@
+# Part of the solution for Assignment 2 (CSC 464/564)
+# by Stefan Bruda.
+
+VSIZE 10
+HSIZE 30
+RHOST linux.ubishops.ca
+RPORT 10153
